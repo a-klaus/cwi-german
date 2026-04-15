@@ -1,6 +1,6 @@
 # Überblick
 
-Dieses Verzeichnis beinhaltet den Code zum Bachelorprojekt von Anina Klaus.
+Dieses Verzeichnis beinhaltet den Code zum Bachelorprojekt von Anina Klaus, mit dem Thema Complex Word Identification im Deutschen.
 
 Die verschiedenen Klassifikatoren sind im Verzeichnis `cwi/` abgelegt. Zusätzlich gibt
 es im Verzeichnis `notebooks/` zwei `jupyter-notebook`-Dateien,
